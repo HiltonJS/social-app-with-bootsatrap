@@ -1,0 +1,21 @@
+.bg-lightt {
+  background-color: hsla(216, 100%, 70%, 0.847) !important;
+  color: #fff;
+}
+.navbar-brand {
+  color: #fff;
+}
+.nav-link {
+  font-size: 30px;
+}
+.profile-image {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 170px;
+  transition: ease;
+  border-radius: 50%;
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.356);
+  }
+}

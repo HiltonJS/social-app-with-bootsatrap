@@ -1,0 +1,15 @@
+.change-image {
+  position: relative;
+  top: -55px;
+  left: 150px;
+  padding-top: 20px;
+
+  background-color: rgba(0, 0, 0, 0.295);
+}
+.container .profile {
+  background-color: brown;
+  border-radius: 7px;
+}
+.profile-userdetails {
+  text-align: center;
+}
